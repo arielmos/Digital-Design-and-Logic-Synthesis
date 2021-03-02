@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom Interface
+DEFAULT_FILE atom Interface.sv

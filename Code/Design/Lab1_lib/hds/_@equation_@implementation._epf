@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom Equation_Implementation
+DEFAULT_FILE atom @equation_@implementation/struct.bd

@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom GoldModel
+DEFAULT_FILE atom GoldModel.sv

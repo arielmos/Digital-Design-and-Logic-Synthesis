@@ -1,0 +1,75 @@
+DESIGN @control_@and_@registers
+VIEW struct.bd
+NO_GRAPHIC 0
+DESIGN @control_@and_@registers
+VIEW struct.bd
+NO_GRAPHIC 9
+DESIGN @control_@and_@registers
+VIEW symbol.sb
+GRAPHIC 1,0 9 0 
+DESIGN @control_@and_@registers
+VIEW struct.bd
+GRAPHIC 460,0 10 0 
+DESIGN @control_@and_@registers
+VIEW struct.bd
+GRAPHIC 13,0 14 0 
+DESIGN @control_@and_@registers
+VIEW symbol.sb
+GRAPHIC 120,0 23 0 
+DESIGN @control_@and_@registers
+VIEW symbol.sb
+GRAPHIC 120,0 24 0 
+DESIGN @control_@and_@registers
+VIEW symbol.sb
+GRAPHIC 125,0 25 0 
+DESIGN @control_@and_@registers
+VIEW symbol.sb
+GRAPHIC 130,0 26 0 
+DESIGN @control_@and_@registers
+VIEW symbol.sb
+GRAPHIC 135,0 28 0 
+DESIGN @control_@and_@registers
+VIEW symbol.sb
+GRAPHIC 135,0 29 0 
+DESIGN @control_@and_@registers
+VIEW symbol.sb
+GRAPHIC 140,0 30 0 
+DESIGN @control_@and_@registers
+VIEW symbol.sb
+GRAPHIC 145,0 31 0 
+DESIGN @control_@and_@registers
+VIEW symbol.sb
+GRAPHIC 183,0 32 0 
+DESIGN @control_@and_@registers
+VIEW symbol.sb
+GRAPHIC 188,0 33 0 
+DESIGN @control_@and_@registers
+VIEW symbol.sb
+GRAPHIC 890,0 34 0 
+DESIGN @control_@and_@registers
+VIEW symbol.sb
+GRAPHIC 713,0 35 0 
+DESIGN @control_@and_@registers
+VIEW symbol.sb
+GRAPHIC 718,0 36 0 
+DESIGN @control_@and_@registers
+VIEW struct.bd
+GRAPHIC 462,0 39 0 
+DESIGN @control_@and_@registers
+VIEW symbol.sb
+GRAPHIC 1,0 49 0 
+DESIGN @control_@and_@registers
+VIEW struct.bd
+NO_GRAPHIC 66
+DESIGN @control_@and_@registers
+VIEW struct.bd
+GRAPHIC 177,0 69 0 
+DESIGN @control_@and_@registers
+VIEW struct.bd
+GRAPHIC 251,0 82 0 
+DESIGN @control_@and_@registers
+VIEW struct.bd
+NO_GRAPHIC 161
+DESIGN @control_@and_@registers
+VIEW struct.bd
+GRAPHIC 464,0 163 0 

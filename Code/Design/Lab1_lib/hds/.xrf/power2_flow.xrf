@@ -1,0 +1,78 @@
+DESIGN @power2
+VIEW flow.fc
+NO_GRAPHIC 0
+DESIGN @power2
+VIEW flow.fc
+NO_GRAPHIC 9
+DESIGN @power2
+VIEW symbol.sb
+GRAPHIC 1,0 9 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 21,0 10 0 
+DESIGN @power2
+VIEW symbol.sb
+GRAPHIC 114,0 14 0 
+DESIGN @power2
+VIEW symbol.sb
+GRAPHIC 129,0 15 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 23,0 18 0 
+DESIGN @power2
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 67,0 23 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 67,0 23 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 26,0 25 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 12,0 25 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 72,0 27 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 200,0 28 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 88,0 30 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 212,0 31 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 104,0 33 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 224,0 34 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 136,0 36 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 248,0 37 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 152,0 39 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 224,0 40 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 168,0 42 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 212,0 43 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 200,0 47 0 
+DESIGN @power2
+VIEW flow.fc
+GRAPHIC 25,0 52 0 

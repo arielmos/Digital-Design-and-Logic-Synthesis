@@ -1,0 +1,67 @@
+//
+// Verilog Module Lab1_lib.Checker
+//
+// Created:
+//          by - amitnag.UNKNOWN (SHOHAM)
+//          at - 14:30:19 12/ 5/2020
+//
+// using Mentor Graphics HDL Designer(TM) 2019.2 (Build 5)
+//
+
+`resetall
+`timescale 1ns/10ps
+module Checker #(
+  parameter Amba_Addr_Depth = 20,  //Part of the Amba standard at Moodle site; Range - 20,24,32
+   parameter Amba_Word       = 16,  //Part of the Amba standard at Moodle site; Range - 16,24,32
+   parameter Data_Depth      = 8)
+( 
+   // Port Declarations
+   Interface.Checker_Coverager checker_bus
+);
+//modport Checker_Coverager (input clk, rst, PADDR, PENABLE, PSEL, PWRITE,PWDATA,Image_Done,Pixel_Data,new_pixel);
+int count;
+int N;
+initial begin: init_proc
+  count=0;
+  N=0;
+end
+always @(posedge  checker_bus.clk) begin: count_proc1
+  if (checker_bus.PADDR == 2) begin
+      N = checker_bus.PWDATA;
+  end  
+  if (checker_bus.Image_Done==1) begin
+      count = 0;
+  end
+end
+
+always @(posedge  checker_bus.new_pixel) begin: count_proc2
+  count = count + 1;
+end
+
+//checking if the output size == input size of images
+property Image_Done_active;
+				@(checker_bus.Image_Done) checker_bus.Image_Done==1 |=> (N*N==count);
+				endproperty
+
+assert property(Image_Done_active)
+  else $error("error with Image_Done_size");  
+  cover property(Image_Done_active);
+  
+property new_pixel_active;
+				@(checker_bus.new_pixel) checker_bus.new_pixel==1 |=> (checker_bus.Pixel_Data >= 0) && (checker_bus.Pixel_Data <= 255);
+				endproperty
+
+assert property(new_pixel_active)
+  else $error("error with Pixel_Data");  
+  cover property(new_pixel_active);
+ 			
+property rst_active;
+				@(checker_bus.rst) checker_bus.rst==1 |=> ((checker_bus.Pixel_Data >= 0) && (checker_bus.Pixel_Data <= 255)) || (checker_bus.Pixel_Data == 8'bX);
+				endproperty
+
+assert property(rst_active)
+  else $error("error with Reset");
+  cover property(rst_active);
+
+endmodule
+

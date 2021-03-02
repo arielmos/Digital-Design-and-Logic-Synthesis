@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom Power2
+DEFAULT_FILE atom @power2/flow.fc

@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom dff_sync_reset
+DEFAULT_FILE atom Control_And_Registers.v

@@ -1,0 +1,20 @@
+# vsim -f hds_args.tmp -foreign "hdsInit C:/MentorGraphics/HDS_2019.2/resources/downstream/modelsim/ModelSim_64Bit.dll" -pli ""C:/MentorGraphics/HDS_2019.2/resources/downstream/modelsim/ModelSim_64Bit.dll"" 
+# Start time: 21:16:18 on Dec 17,2020
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vsim-3865) Due to PLI being present, global +acc is being enabled automatically. This will cause your simulation to run very slowly. Please use vsim -no_autoacc to disable this feature. This feature is now deprecated and will be removed from future releases.
+# ** Note: (vopt-143) Recognized 1 FSM in module "Control_And_Registers(fast)".
+# Loading sv_std.std
+# Loading work.tb_overall(fast)
+# Loading work.Interface(fast)
+# Loading work.Stimulus(fast)
+# Loading work.Visible_Watermarking(fast)
+# Loading work.Block_To_Pixel(fast)
+# Loading work.Control_And_Registers(fast)
+# Loading work.Equation_Implementation(fast)
+# Loading work.Power2(fast)
+# Loading work.Coverage(fast)
+# Loading work.Checker(fast)
+# Loading work.GoldModel(fast)
+# Loading C:/MentorGraphics/HDS_2019.2/resources/downstream/modelsim/ModelSim_64Bit.dll
+# End time: 21:16:38 on Dec 17,2020, Elapsed time: 0:00:20
+# Errors: 0, Warnings: 1

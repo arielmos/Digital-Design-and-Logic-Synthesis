@@ -1,0 +1,30 @@
+[DesignChecker]
+Lab1_lib = $HDS_PROJECT_DIR/Lab1_lib/designcheck
+[ModelSim]
+Lab1_lib = $HDS_PROJECT_DIR/Lab1_lib/work
+[QuestaSim]
+Lab1_lib = $HDS_PROJECT_DIR/Lab1_lib/work
+Synthesis_Res = $HDS_PROJECT_DIR/Synthesis_Res/work
+[SvAssistant]
+Lab1_lib = $HDS_PROJECT_DIR/Lab1_lib/svassistant
+[hdl]
+Lab1_lib = $HDS_PROJECT_DIR/Lab1_lib/hdl
+Synthesis_Res = $HDS_PROJECT_DIR/Synthesis_Res/hdl
+[hds]
+Lab1_lib = $HDS_PROJECT_DIR/Lab1_lib/hds
+Synthesis_Res = $HDS_PROJECT_DIR/Synthesis_Res/hds
+[hds_settings]
+default_library = exemplar
+design_root = Lab1_lib.tb_overall(tb_overall)tb_overall.sv
+library_search_path = Synthesis_Res
+version = 2
+[includes_search_path]
+Synthesis_Res = $Synthesis_Res
+[library_files_inclusion]
+Lab1_lib = specify
+Synthesis_Res = all
+[library_type]
+Lab1_lib = regular
+Synthesis_Res = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

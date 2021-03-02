@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom dff
+DEFAULT_FILE atom Control_And_Registers.v

@@ -1,0 +1,9 @@
+TYPE atom VERILOG_GATE_TEXT
+TOP_ENTITY atom Visible_Watermarking
+ARCHITECTURES list {
+ {Visible_Watermarking {}} list {
+  SIMULATION_FILE list {
+   SDF_PATH atom {{C:\Users\amitnag\Desktop\DC\outputs\top.sdf}}
+  }
+ }
+}

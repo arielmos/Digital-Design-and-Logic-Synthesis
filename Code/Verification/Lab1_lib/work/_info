@@ -1,0 +1,295 @@
+m255
+K4
+z2
+!s11f vlog 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/arielmos/Desktop/Lab1/Lab1_lib/work
+T_opt
+!s110 1608232579
+V3LGNVRgbb]kMzZ:c]g18f0
+04 10 4 work tb_overall fast 0
+=1-005056880b04-5fdbae83-8c-13a0c
+o-quiet +acc -auto_acc_if_foreign -work Lab1_lib -L Lab1_lib
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2019.2;69
+vBlock_To_Pixel
+Z2 !s110 1608232564
+!i10b 1
+!s100 _zQK73e4SR>^>;I[b?3^30
+!s11b 7Gna?0WfRlnRC]8_8b:gf1
+I`dRO5h5ckVCAXi=XjkA_41
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1608232451
+8C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Block_To_Pixel.v
+FC:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Block_To_Pixel.v
+Z5 L0 13
+Z6 OL;L;2019.2;69
+r1
+!s85 0
+31
+Z7 !s108 1608232564.000000
+Z8 !s107 C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/visible_watermarking_struct.v|C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Equation_Implementation.v|C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/power2_flow.v|C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Block_To_Pixel.v|C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Control_And_Registers.v|
+Z9 !s90 -work|Lab1_lib|+cover|-nologo|-f|C:/Users/arielmos/AppData/Local/Temp/63/Files1|
+!i113 0
+Z10 !s102 +cover
+Z11 o-nologo -work Lab1_lib +cover -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@block_@to_@pixel
+vChecker
+Z12 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z13 !s110 1608232563
+!i10b 1
+!s100 [bR?Bm:`BcCckL7JKb;cB3
+!s11b z4M7>PMe@c2zn6gS=YkzL2
+I953Nh7AlRWlh^bCMllTgh1
+R3
+S1
+R0
+R4
+8C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Checker.sv
+FC:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Checker.sv
+R5
+R6
+r1
+!s85 0
+31
+Z14 !s108 1608232563.000000
+Z15 !s107 C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Coverage.sv|C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Checker.sv|C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Interface.sv|
+Z16 !s90 -work|Lab1_lib|+cover|-nologo|-sv|-L|Lab1_lib|-f|C:/Users/arielmos/AppData/Local/Temp/63/Files0|
+!i113 0
+R10
+Z17 o-nologo -work Lab1_lib +cover -sv -L Lab1_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@checker
+vControl_And_Registers
+R2
+!i10b 1
+!s100 ?zZP_Bod4]2RaXO34S19X1
+!s11b 7^RO81PXQa>zl?HX`3dEh0
+IIB7nD69fbEfTFB@6F[dYL1
+R3
+R0
+R4
+8C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Control_And_Registers.v
+FC:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Control_And_Registers.v
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R1
+n@control_@and_@registers
+vCoverage
+R12
+R13
+!i10b 1
+!s100 ISNHf9@e[Tg<6jWdg4Sm82
+!s11b >WAYG>AL_j`9V_JYia7ZD1
+IJMGmHoE<]CiR^V12UL??D1
+R3
+S1
+R0
+R4
+8C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Coverage.sv
+FC:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Coverage.sv
+R5
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 0
+R10
+R17
+R1
+n@coverage
+vEquation_Implementation
+R2
+!i10b 1
+!s100 g_5h^BcgaIcDb4X^;U9@[3
+!s11b =_ozi2=@nh>E`J[K2gQY23
+IdNf?heS68h>McGIEKS6:>0
+R3
+R0
+R4
+8C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Equation_Implementation.v
+FC:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Equation_Implementation.v
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R1
+n@equation_@implementation
+vGoldModel
+R12
+R2
+!i10b 1
+!s100 O>YLiccdMXZ^<XDYQ1IQP1
+!s11b WN?B_Y7e=D@fEQK0E8O7C2
+I5X=@fV^;E[7AKY@S4Q?^k2
+R3
+S1
+R0
+R4
+8C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/GoldModel.sv
+FC:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/GoldModel.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z18 !s107 C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/tb_overall.sv|C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/GoldModel.sv|C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Stimulus.sv|
+Z19 !s90 -work|Lab1_lib|+cover|-nologo|-sv|-L|Lab1_lib|-f|C:/Users/arielmos/AppData/Local/Temp/63/Files2|
+!i113 0
+R10
+R17
+R1
+n@gold@model
+YInterface
+R12
+R13
+!i10b 1
+!s100 Ei4KZT;iGG4^j>E6a7aYl1
+!s11b S1R0[6fTWCNd19M=Zm0F>2
+IBo>YD^mEQ>]aJi3eIHJ]:1
+R3
+S1
+R0
+R4
+8C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Interface.sv
+FC:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Interface.sv
+R5
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 0
+R10
+R17
+R1
+n@interface
+vPower2
+R2
+!i10b 1
+!s100 iiQFFe5NRMl6`oaJ>21U30
+!s11b NHGNJYhGG<<9i3_]@=oNQ1
+IJL7I9XLoU<>]L=:jlCz=40
+R3
+R0
+R4
+8C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/power2_flow.v
+FC:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/power2_flow.v
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R1
+n@power2
+vStimulus
+R12
+R2
+!i10b 1
+!s100 QhcKl4MP:OPE_=DRDFLeb1
+!s11b d;hd<P[P9WiTN_E@h_7YI0
+IS?QIU3RFia53gZPk0DZ<c2
+R3
+S1
+R0
+R4
+8C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Stimulus.sv
+FC:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/Stimulus.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R18
+R19
+!i113 0
+R10
+R17
+R1
+n@stimulus
+vtb_overall
+R12
+R2
+!i10b 1
+!s100 ?J28=7Z5GCz6:oI163iGX2
+!s11b 2WYo[6m^n<[`4mdQ=TMVz2
+IzOPZCnZP^YzX85f5EcBf93
+R3
+S1
+R0
+R4
+8C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/tb_overall.sv
+FC:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/tb_overall.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R18
+R19
+!i113 0
+R10
+R17
+R1
+vVisible_Watermarking
+R2
+!i10b 1
+!s100 ;P4Q`JV^SXW:2Z1O;>?g71
+!s11b jo;M@n]cZn2jDjm?J;;g91
+IRge5`:<NZ6Ycz3lWBAmIO1
+R3
+R0
+R4
+8C:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/visible_watermarking_struct.v
+FC:/Users/arielmos/Desktop/Lab1/Lab1_lib/hdl/visible_watermarking_struct.v
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R1
+n@visible_@watermarking

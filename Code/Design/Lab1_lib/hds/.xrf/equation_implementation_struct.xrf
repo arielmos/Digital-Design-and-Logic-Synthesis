@@ -1,0 +1,90 @@
+DESIGN @equation_@implementation
+VIEW struct.bd
+NO_GRAPHIC 0
+DESIGN @equation_@implementation
+VIEW struct.bd
+NO_GRAPHIC 9
+DESIGN @equation_@implementation
+VIEW symbol.sb
+GRAPHIC 1,0 9 0 
+DESIGN @equation_@implementation
+VIEW struct.bd
+GRAPHIC 796,0 10 0 
+DESIGN @equation_@implementation
+VIEW struct.bd
+GRAPHIC 13,0 14 0 
+DESIGN @equation_@implementation
+VIEW symbol.sb
+GRAPHIC 145,0 22 0 
+DESIGN @equation_@implementation
+VIEW symbol.sb
+GRAPHIC 145,0 23 0 
+DESIGN @equation_@implementation
+VIEW symbol.sb
+GRAPHIC 194,0 24 0 
+DESIGN @equation_@implementation
+VIEW symbol.sb
+GRAPHIC 150,0 25 0 
+DESIGN @equation_@implementation
+VIEW symbol.sb
+GRAPHIC 130,0 26 0 
+DESIGN @equation_@implementation
+VIEW symbol.sb
+GRAPHIC 140,0 27 0 
+DESIGN @equation_@implementation
+VIEW symbol.sb
+GRAPHIC 155,0 28 0 
+DESIGN @equation_@implementation
+VIEW symbol.sb
+GRAPHIC 135,0 29 0 
+DESIGN @equation_@implementation
+VIEW symbol.sb
+GRAPHIC 165,0 30 0 
+DESIGN @equation_@implementation
+VIEW symbol.sb
+GRAPHIC 160,0 31 0 
+DESIGN @equation_@implementation
+VIEW symbol.sb
+GRAPHIC 531,0 32 0 
+DESIGN @equation_@implementation
+VIEW struct.bd
+GRAPHIC 798,0 35 0 
+DESIGN @equation_@implementation
+VIEW symbol.sb
+GRAPHIC 1,0 45 0 
+DESIGN @equation_@implementation
+VIEW struct.bd
+NO_GRAPHIC 68
+DESIGN @equation_@implementation
+VIEW struct.bd
+GRAPHIC 187,0 71 0 
+DESIGN @equation_@implementation
+VIEW struct.bd
+GRAPHIC 205,0 72 0 
+DESIGN @equation_@implementation
+VIEW struct.bd
+GRAPHIC 211,0 73 0 
+DESIGN @equation_@implementation
+VIEW struct.bd
+GRAPHIC 217,0 75 0 
+DESIGN @equation_@implementation
+VIEW struct.bd
+GRAPHIC 220,0 77 0 
+DESIGN @equation_@implementation
+VIEW struct.bd
+GRAPHIC 326,0 122 0 
+DESIGN @equation_@implementation
+VIEW struct.bd
+GRAPHIC 432,0 137 0 
+DESIGN @equation_@implementation
+VIEW struct.bd
+GRAPHIC 522,0 153 0 
+DESIGN @equation_@implementation
+VIEW struct.bd
+GRAPHIC 636,0 177 0 
+DESIGN @equation_@implementation
+VIEW struct.bd
+NO_GRAPHIC 181
+DESIGN @equation_@implementation
+VIEW struct.bd
+GRAPHIC 800,0 183 0 
